@@ -1,14 +1,14 @@
 {
-  "name": "passport-http",
+  "name": "gt-passport-http",
   "version": "0.2.2",
-  "description": "HTTP Basic and Digest authentication strategies for Passport.",
+  "description": "HTTP Basic and Digest authentication strategies for Passport. (Modified with a flag to prevent WWW-Authenticate headers to be sent)",
   "keywords": ["passport", "http", "basic", "digest", "auth", "authn", "authentication"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-http.git"
+    "url": "git://github.com/geothird/passport-http.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-http/issues"
+    "url": "http://github.com/geothird/passport-http/issues"
   },
   "author": {
     "name": "Jared Hanson",
